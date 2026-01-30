@@ -23,3 +23,6 @@ One of the main features of this project is that the user can see their final sc
 While working on this project, I gained practical knowledge of JavaScript concepts such as variables, arrays, functions, conditional statements, and event handling. I also learned how JavaScript interacts with HTML elements to dynamically update content without reloading the page. This project helped me improve my logical thinking and problem-solving skills.
 
 Overall, the Interactive Quiz Application Using JavaScript was a great learning experience during my internship at Code Tech IT Solution. It allowed me to apply my theoretical knowledge in a practical way and gave me confidence in developing basic web applications. Completing this task helped me strengthen my foundation in JavaScript and front-end development, and it was a valuable step in my learning journey.
+
+*OUTPUT*:
+<img width="1854" height="909" alt="Image" src="https://github.com/user-attachments/assets/9933e0ac-cc3f-4390-9bc4-f812a53542a5" />
