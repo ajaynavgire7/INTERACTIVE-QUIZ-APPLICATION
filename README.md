@@ -30,3 +30,5 @@ Overall, the Interactive Quiz Application Using JavaScript was a great learning 
 <img width="1851" height="908" alt="Image" src="https://github.com/user-attachments/assets/4c7aacb0-c9e4-494b-b5b0-0ca8315a0ccc" />
 
 <img width="1857" height="905" alt="Image" src="https://github.com/user-attachments/assets/2d78e93b-a100-463d-abb0-a8fb25baa458" />
+
+<img width="1859" height="901" alt="Image" src="https://github.com/user-attachments/assets/5f64934a-cc9d-473b-9eba-adebd65fead3" />
